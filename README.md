@@ -18,9 +18,6 @@ Welcome to the password manager
 ~$ list
 Listing existing users: 
 ID_3u2i  google.com      rudrapd2005@gmail.com
-ID_j322  pinterest.com   ishitpd@gmail.com
-ID_t1y4  netflix.com     2328191@gmail.com
-ID_u32i  youtube.com     rhiddhiprasad@gmail.com
 ID_i2o0  spotify.com     eepy@gmail.com
 ID_ai42  twitter.com     2328039@gmail.com
 
@@ -46,7 +43,7 @@ Copied!
 ~$ update ID_j322
 Leave empty for no change
 Website name    (netflix.com)       : reddit.com
-Username        (ishitpd@gmail.com) :
+Username        (rudrapd2005@gmail.com) :
 Password        (********)          : my_newpass@1234
 
 Updated entry ID_j322!
